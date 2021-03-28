@@ -1,0 +1,62 @@
+2021-03-26 23:29:12,707 - root - INFO - Returns difference two numbers - /home/maksym/PycharmProjects/practika/practika2.py
+2021-03-27 00:01:24,092 - root - INFO - Повертає суму двох чисел - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:02:03,835 - root - INFO - Вихід із калькулятора. Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:02:26,179 - root - INFO - Повертає число взяте з-під кореня - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:05:27,517 - root - INFO - Повертає ділення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:05:27,518 - root - ERROR - ZeroDivisionError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 89, in dividing
+    return f'Відповідь: {num_1} / {num_2} = {num_1 / num_2}'
+ZeroDivisionError: division by zero
+2021-03-27 00:05:39,497 - root - INFO - Повертає піднесення числа до степення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:05:54,373 - root - INFO - Повертає множення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:07:04,272 - root - INFO - Повертає суму двох чисел - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:08:49,172 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:10:33,466 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:11:33,505 - root - INFO - Повертає різницю двох чисел - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:11:39,836 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 00:12:53,773 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 12:41:02,557 - root - INFO - Повертає суму двох чисел - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 12:41:11,714 - root - INFO - Повертає множення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 12:41:45,791 - root - INFO - Повертає ділення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 12:41:45,791 - root - ERROR - ZeroDivisionError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 89, in dividing
+    return f'Відповідь: {num_1} / {num_2} = {num_1 / num_2}'
+ZeroDivisionError: division by zero
+2021-03-27 12:41:58,341 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 12:42:23,677 - root - INFO - Повертає множення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 17:13:36,801 - root - INFO - Повертає суму двох чисел - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 17:13:49,872 - root - INFO - Повертає число взяте з-під кореня - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 17:13:55,592 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:50:10,576 - root - INFO - Повертає число взяте з-під кореня - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:50:41,535 - root - INFO - Повертає число взяте з-під кореня - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:50:51,133 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:52:35,078 - root - INFO - Повертає ділення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:52:35,079 - root - ERROR - ZeroDivisionError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 90, in dividing
+    return f'Відповідь: {num_1} / {num_2} = {num_1 / num_2}'
+ZeroDivisionError: division by zero
+2021-03-27 22:52:51,610 - root - ERROR - ValueError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 33, in calc
+    return summ(int(input('Введіть перше число: ')), int(input('Введіть друге число: ')))
+ValueError: invalid literal for int() with base 10: 'y'
+2021-03-27 22:54:31,878 - root - INFO - Повертає відсоток від числа - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 22:58:43,416 - root - INFO - Повертає відсоток від числа - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 23:00:16,353 - root - INFO - Повертає піднесення числа до степення - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 23:04:15,695 - root - INFO - Повертає ділення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 23:04:22,133 - root - INFO - Повертає ділення одного числа на інше - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 23:04:22,134 - root - ERROR - ZeroDivisionError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 91, in dividing
+    return f'Відповідь: {num_1} / {num_2} = {num_1 / num_2}'
+ZeroDivisionError: division by zero
+2021-03-27 23:04:57,610 - root - INFO - Повертає відсоток від числа - /home/maksym/PycharmProjects/practika/HomeWork9.py
+2021-03-27 23:05:20,868 - root - ERROR - ValueError - /home/maksym/PycharmProjects/practika/HomeWork9.py
+Traceback (most recent call last):
+  File "/home/maksym/PycharmProjects/practika/HomeWork9.py", line 51, in calc
+    return multiply(int(input('Введіть перше число: ')), int(input('Введіть друге число: ')))
+ValueError: invalid literal for int() with base 10: 'о'
+2021-03-27 23:05:38,685 - root - INFO - Завершення - /home/maksym/PycharmProjects/practika/HomeWork9.py
